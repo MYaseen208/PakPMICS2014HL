@@ -1,4 +1,4 @@
-#' @title Multiple Indicator Cluster Survey (MICS) 2014 Household Listing questionnaire data for Punjab, Pakistan
+#' @title Multiple Indicator Cluster Survey (MICS) 2014 Household Listing Questionnaire Data for Punjab, Pakistan
 #' @name   MICS2014HL
 #' @docType data
 #' @keywords datasets
@@ -94,6 +94,11 @@
 #'   \item{Muhammad Yaseen } {(\email{myaseen208@@gmail.com})}
 #'   \item{Muhammad Usman } {(\email{usmann75@hotmail.com})}
 #'   }
+#'
+#' @references \enumerate{
+#' \item UNICEF MICS (\url{http://www.mics.unicef.org/surveys}).
+#'  }
+#'
 #'   
 #' @importFrom data.table data.table
 #' 
